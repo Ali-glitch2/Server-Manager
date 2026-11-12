@@ -1,0 +1,1 @@
+[{"name": "web1", "ip": "10.0.0.1", "role": "web", "cpu_cores": 4, "ram_gb": 8, "status": "running"}, {"name": "db1", "ip": "10.0.0.2", "role": "database", "cpu_cores": 8, "ram_gb": 32, "status": "stopped"}, {"name": "cache1", "ip": "10.0.0.3", "role": "cache", "cpu_cores": 2, "ram_gb": 4, "status": "stopped"}]
